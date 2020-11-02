@@ -72,4 +72,4 @@ def top_words(source, number):
         i += 1
     return array
 
-#print(top_words("alice.txt",5))  # COMMENT THIS OUT WHEN SUBMITTING TO GRADESCOPE
+
